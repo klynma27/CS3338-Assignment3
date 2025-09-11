@@ -1,0 +1,62 @@
+commit 3b1897e6044ccedbd1f43dde4d1bad83c27c8685
+Merge: f37cdce 841a3bd
+Author: klynma27 <168678963+klynma27@users.noreply.github.com>
+Date:   Wed Sep 10 17:11:40 2025 -0700
+
+    Merge pull request #1 from klynma27/feature-about-me
+    
+    Feature about me
+
+commit 841a3bda6988321e5f56a8fdf851243af7710c9a
+Merge: ffb746b f37cdce
+Author: klynma27 <168678963+klynma27@users.noreply.github.com>
+Date:   Wed Sep 10 16:24:02 2025 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit ffb746bcb6bbaac6c66e35e9981438ec79515567
+Author: klynma27 <kma27@calstatela.edu>
+Date:   Tue Sep 9 20:06:15 2025 -0700
+
+    Update index.html
+    
+    Replace the <div> with my information
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
